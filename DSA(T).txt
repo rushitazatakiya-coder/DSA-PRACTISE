@@ -1,0 +1,10 @@
+python install check 
+comment
+1 single : #
+2 multi : x docstring 
+datatype
+1 none : null
+2 numeric : int, float, boolean
+3 sequence : string, bytes, bytearray, list[], tupple(), range
+4 sets
+5 mapping
